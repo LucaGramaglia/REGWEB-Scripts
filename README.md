@@ -16,8 +16,13 @@ Once you have downloaded and unzipped the contents of this GitHub repository on 
 
 To do this, open the *Splitting_script.R* script with any text editor. At the beginning of the script, you will find a variable called *path ← "....."* (see screenshot below). Replace the default value of path with the path to the working directory you have unzipped the programme in and save the file.
 
+The *Parameters* folder also contains some files that can be used to change certain configurations:
+* In the *params.csv* file, the user can indicate which column contains the indicator codes in the input file.
+* The *Mapping.csv* file maps the indicator codes to the corresponding EDAMIS dataset names.
 
-The *Parameters* folder
+These parameter files will however not require tweaking unless changes are made to the REGWEB DSD or to EDAMIS dataset names.
+
+# How to use the programme
 
 
 
