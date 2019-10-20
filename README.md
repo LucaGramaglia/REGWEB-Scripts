@@ -25,6 +25,8 @@ These parameter files will however not require tweaking unless changes are made 
 # How to use the programme
 To use the programme, the user simply needs to drop one or more files strcutured according to the REGWEB DSD in the *Input* folder. You can then run the *Splitting_script.R* script. In order to do this, open your R application and type the source command: *source(yourpath/Splitting_script.R)*. See screenshot below.
 
+![alt text](https://github.com/LucaGramaglia/REGWEB-Scripts/blob/master/Images/path_R.jpg "R screenshot")
+
 The script will generate the files split according to the needs of the Transport Information System in the *Output* folder. 
 
 # Potential improvements
